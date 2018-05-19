@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>Waffle Map Blog</title>
-        <link>https://dorayakikun.github.io/waffle-map//blog</link>
+        <link>https://dorayakikun.github.io/waffle-map//waffle-mapblog</link>
         <description>The best place to stay up-to-date with the latest Waffle Map news and events.</description>
         <lastBuildDate>Mon, 14 May 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>Waffle Map Blog</title>
-            <url>https://dorayakikun.github.io/waffle-map//img/wafflemap.svg</url>
-            <link>https://dorayakikun.github.io/waffle-map//blog</link>
+            <url>https://dorayakikun.github.io/waffle-map//waffle-mapimg/wafflemap.svg</url>
+            <link>https://dorayakikun.github.io/waffle-map//waffle-mapblog</link>
         </image>
         <copyright>Copyright © 2018 dorayakikun</copyright>
         <item>
             <title><![CDATA[v1.20.0]]></title>
-            <link>https://dorayakikun.github.io/waffle-map//blog/2018/05/14/v1.20.0.html</link>
-            <guid>https://dorayakikun.github.io/waffle-map//blog/2018/05/14/v1.20.0.html</guid>
+            <link>https://dorayakikun.github.io/waffle-map//waffle-mapblog/2018/05/14/v1.20.0.html</link>
+            <guid>https://dorayakikun.github.io/waffle-map//waffle-mapblog/2018/05/14/v1.20.0.html</guid>
             <pubDate>Mon, 14 May 2018 06:00:00 GMT</pubDate>
             <description><![CDATA[<p><a href="https://docusaurus.io/" title="Docusaurus · Easy to Maintain Open Source Documentation Websites">Docusaurus</a>に対応しました!</p>
 <p><a href="https://docusaurus.io/">Docusaurus</a> optimize to maintain Open Source Documentation Websites.</p>
