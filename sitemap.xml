@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://dorayakikun.github.io/waffle-map/help.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dorayakikun.github.io/waffle-map/en/help.html" /> </url>
+<url> <loc>https://dorayakikun.github.io/waffle-map/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dorayakikun.github.io/waffle-map/en/index.html" /> </url>
+<url> <loc>https://dorayakikun.github.io/waffle-map/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dorayakikun.github.io/waffle-map/en/users.html" /> </url>
+<url> <loc>https://dorayakikun.github.io/waffle-map/blog/2018/05/14/v1.20.0.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://dorayakikun.github.io/waffle-map/docs/api.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dorayakikun.github.io/waffle-map/docs/api.html" /> </url>
+<url> <loc>https://dorayakikun.github.io/waffle-map/docs/getting-started.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dorayakikun.github.io/waffle-map/docs/getting-started.html" /> </url>
+<url> <loc>https://dorayakikun.github.io/waffle-map/docs/guides.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://dorayakikun.github.io/waffle-map/docs/guides.html" /> </url>
+</urlset>
