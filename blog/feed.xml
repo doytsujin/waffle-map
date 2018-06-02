@@ -4,7 +4,7 @@
         <title>Waffle Map Blog</title>
         <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog</link>
         <description>The best place to stay up-to-date with the latest Waffle Map news and events.</description>
-        <lastBuildDate>Sun, 03 Jun 2018 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 May 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,16 +13,6 @@
             <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog</link>
         </image>
         <copyright>Copyright © 2018 dorayakikun</copyright>
-        <item>
-            <title><![CDATA[v1.21.0]]></title>
-            <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/06/03/v1.21.0.html</link>
-            <guid>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/06/03/v1.21.0.html</guid>
-            <pubDate>Sun, 03 Jun 2018 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>エラーメッセージを改善しました!</p>
-<p>メッシュコードの外側をクォートで囲んだので、どこまで入力値か分かり易くなりました。</p>
-<p><img src="/waffle-map/img/blog/2018-06-03-v1.21.0-mesh-code-error" alt="Interactive snapshot mode in action"></p>
-]]></description>
-        </item>
         <item>
             <title><![CDATA[v1.20.0]]></title>
             <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/05/14/v1.20.0.html</link>
