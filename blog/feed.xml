@@ -20,7 +20,7 @@
             <pubDate>Sun, 03 Jun 2018 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>エラーメッセージを改善しました!</p>
 <p>メッシュコードの外側をクォートで囲んだので、どこまで入力値か分かり易くなりました。</p>
-<p><img src="/waffle-map/img/blog/2018-06-03-v1.21.0-mesh-code-error" alt="Interactive snapshot mode in action"></p>
+<p><img src="/waffle-map/img/blog/2018-06-03-v1.21.0-mesh-code-error.png" alt="waffle-map-mesh-code-error"></p>
 ]]></description>
         </item>
         <item>
