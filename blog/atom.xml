@@ -2,35 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dorayakikun.github.io/waffle-map//waffle-map/blog</id>
     <title>Waffle Map Blog</title>
-    <updated>2018-06-03T06:00:00Z</updated>
+    <updated>2018-05-14T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://dorayakikun.github.io/waffle-map//waffle-map/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Waffle Map news and events.</subtitle>
     <logo>https://dorayakikun.github.io/waffle-map//waffle-map/img/wafflemap.svg</logo>
     <rights>Copyright © 2018 dorayakikun</rights>
     <entry>
-        <title type="html"><![CDATA[v1.21.0]]></title>
-        <id>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/06/03/v1.21.0.html</id>
-        <link href="https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/06/03/v1.21.0.html">
-        </link>
-        <updated>2018-06-03T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>エラーメッセージを改善しました!</p>
-<p>メッシュコードの外側をクォートで囲んだので、どこまで入力値か分かり易くなりました。</p>
-<p><img src="/waffle-map/img/blog/2018-06-03-v1.21.0-mesh-code-error.png" alt="waffle-map-mesh-code-error"></p>
-]]></summary>
-        <author>
-            <name>dorayakikun</name>
-            <uri>https://github.com/dorayakikun</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.20.0]]></title>
         <id>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/05/14/v1.20.0.html</id>
         <link href="https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/05/14/v1.20.0.html">
         </link>
         <updated>2018-05-14T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://docusaurus.io/" title="Docusaurus · Easy to Maintain Open Source Documentation Websites">Docusaurus</a>に対応しました!</p>
-<p><a href="https://docusaurus.io/">Docusaurus</a> optimize to maintain Open Source Documentation Websites.</p>
+        <summary type="html"><![CDATA[<p><a href="https://docusaurus.io/" title="Docusaurus · Easy to Maintain Open Source Documentation Websites">Docusaurus</a>に対応しました<img src="https://docusaurus.io/" alt="Docusaurus"> optimize to maintain Open Source Documentation Websites.</p>
+<p>エラーメッセージを改善しました!メッシュコードの外側をクォートで囲んだので、どこまでが入</p>
 ]]></summary>
         <author>
             <name>dorayakikun</name>
