@@ -4,7 +4,7 @@
         <title>Waffle Map Blog</title>
         <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog</link>
         <description>The best place to stay up-to-date with the latest Waffle Map news and events.</description>
-        <lastBuildDate>Mon, 14 May 2018 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Aug 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,14 @@
             <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog</link>
         </image>
         <copyright>Copyright © 2018 dorayakikun</copyright>
+        <item>
+            <title><![CDATA[v1.21.0]]></title>
+            <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/08/04/v1.21.0.html</link>
+            <guid>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/08/04/v1.21.0.html</guid>
+            <pubDate>Sat, 04 Aug 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>内部の構成をリファクタリングしました!</p>
+]]></description>
+        </item>
         <item>
             <title><![CDATA[v1.20.0]]></title>
             <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/05/14/v1.20.0.html</link>
