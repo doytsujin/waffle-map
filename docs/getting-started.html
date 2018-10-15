@@ -40,6 +40,17 @@
 npm run dev
 </code></pre>
 </span></div></article></div><div class="docs-prevnext"><a class="docs-next button" href="/waffle-map/docs/api.html"><span>Next</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav docOnPageNav"><ul class="toc-headings"><li><a href="#機能">機能</a></li><li><a href="#インストール">インストール</a></li></ul></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/waffle-map/" class="nav-home"><img src="/waffle-map/img/wafflemap.svg" alt="Waffle Map" width="66" height="58"/></a><div><h5>Docs</h5><a href="/waffle-map/docs/getting-started.html">Getting Started</a><a href="/waffle-map/docs/guides.html">Guides</a><a href="/waffle-map/docs/api.html">API Reference</a></div><div><h5>More</h5><a href="/waffle-map/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" href="https://github.com/dorayakikun/waffle-map" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><section class="copyright">Copyright © 2018 dorayakikun</section></footer></div><script type="text/javascript" src="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.js"></script><script>
+                document.addEventListener('keyup', function(e) {
+                  if (e.target !== document.body) {
+                    return;
+                  }
+                  // keyCode for '/' (slash)
+                  if (e.keyCode === 191) {
+                    const search = document.getElementById('search_input_react');
+                    search && search.focus();
+                  }
+                });
+              </script><script>
               var search = docsearch({
                 
                 apiKey: '608c52525cab230bb2188506291b313b',
