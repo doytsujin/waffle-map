@@ -18,14 +18,17 @@
             <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/08/04/v1.21.0.html</link>
             <guid>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/08/04/v1.21.0.html</guid>
             <pubDate>Sat, 04 Aug 2018 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>内部の構成をリファクタリングしました!</p> ]]></description>
+            <description><![CDATA[<p>内部の構成をリファクタリングしました!</p>
+]]></description>
         </item>
         <item>
             <title><![CDATA[v1.20.0]]></title>
             <link>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/05/14/v1.20.0.html</link>
             <guid>https://dorayakikun.github.io/waffle-map//waffle-map/blog/2018/05/14/v1.20.0.html</guid>
             <pubDate>Mon, 14 May 2018 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p><a href="https://docusaurus.io/" title="Docusaurus · Easy to Maintain Open Source Documentation Websites">Docusaurus</a>に対応しました<img src="https://docusaurus.io/" alt="Docusaurus"> optimize to maintain Open Source Documentation Websites.</p> <p>エラーメッセージを改善しました!メッシュコードの外側をクォートで囲んだので、どこまでが入力値か分かり易くなりました。</p> <p><img src="/waffle-map/img/blog/2018-06-03-v1.20.0-mesh-code-error.png" alt="waffle-map-mesh-code-error"></p> ]]></description>
+            <description><![CDATA[<p><a href="https://docusaurus.io/" title="Docusaurus · Easy to Maintain Open Source Documentation Websites">Docusaurus</a>に対応しました<img src="https://docusaurus.io/" alt="Docusaurus"> optimize to maintain Open Source Documentation Websites.</p>
+<p>エラーメッセージを改善しました!メッシュコードの外側をクォートで囲んだので、どこまでが入</p>
+]]></description>
         </item>
     </channel>
 </rss>
